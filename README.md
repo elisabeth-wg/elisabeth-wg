@@ -3,13 +3,13 @@
 <h3 align="center">A software engineer striving to change the world for the better.</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/elisabeth-gliddon/" target="_blank">
+  <a href="https://www.linkedin.com/in/elisabeth-wolden/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LinkedIn&color=a3a7ee&style=for-the-badge&logo=linkedin&logo-color=FFFFFF"/>
   </a>
   <a href="https://twitter.com/LisOnthewebs" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Twitter&color=a3a7ee&style=for-the-badge&logo=twitter&logo-color=FFFFFF"/>
   </a>
-  <a href="https://elisabethgliddon.netlify.app/" target="_blank">
+  <a href="https://elisabethwolden.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=a3a7ee&style=for-the-badge&logo=netlify&logo-color=FFFFFF"/>
   </a>
 <!--   <a href="#" target="_blank">
@@ -26,14 +26,14 @@
 
 - 🔭 I’m currently working on a **mental health app**
 
-- 👨‍💻 Some of my projects are available at [https://elisabethgliddon.netlify.app/](https://elisabethgliddon.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://elisabethwolden.netlify.app/](https://elisabethwolden.netlify.app/)
 
-- 📫 How to reach me **Elisabeth.Gliddon@gmail.com**
+- 📫 How to reach me **Elisabeth.Wolden@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lisonthewebs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lisonthewebs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@elisabeth-gliddon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@elisabeth-gliddon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/@elisabeth-wolden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@elisabeth-wolden" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
