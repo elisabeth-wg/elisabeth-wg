@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1bJLGJcuwSisndenifOoqOS0H_kUEv1o6">
+<img src="https://drive.google.com/uc?export=view&id=1RacWpnky9b9n1mUlKMqXcsOOoZPI1B7l">
 
 <h3 align="center">A software engineer striving to change the world for the better.</h3>
 
